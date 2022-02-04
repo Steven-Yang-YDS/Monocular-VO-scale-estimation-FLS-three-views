@@ -2,7 +2,7 @@
 The code for manuscript 'Absolute Scale Estimation for Underwater Monocular Visual Odometry based on 2-D Imaging Sonar'
 
 # Require
-mexopencv
+mexopencv： https://github.com/kyamagu/mexopencv
 
 
 
